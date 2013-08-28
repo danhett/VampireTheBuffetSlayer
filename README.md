@@ -1,5 +1,5 @@
-VampireTheBuffetSlayer
-======================
+Vampire The Buffet Slayer
+=========================
 
 A jam game hastily cobbled together in a few hours for the August 2013 Ludum Dare, on the theme "Ten Seconds". 
 
